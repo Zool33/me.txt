@@ -3,7 +3,7 @@ line 2
 line 3change 
 line 4
 line 5
-line 6
+line 6 something else important to add because these lines shouldnt be wasted
 pizza
 gummybears
 moooooore changes
